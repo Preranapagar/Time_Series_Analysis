@@ -16,3 +16,5 @@ Task Performed :
     * Selecting Necessary Columns
 
 4. Testing for Normality
+
+5. Exploratory Data Analysis
