@@ -18,3 +18,5 @@ Task Performed :
 4. Testing for Normality
 
 5. Exploratory Data Analysis
+
+6. Testing for Stationarity of Time Series
