@@ -20,3 +20,8 @@ Task Performed :
 5. Exploratory Data Analysis
 
 6. Testing for Stationarity of Time Series
+    * Dickey-fuller test
+
+7. Modelling & Evaluation
+    * LSTM Model
+    * Evaluation
